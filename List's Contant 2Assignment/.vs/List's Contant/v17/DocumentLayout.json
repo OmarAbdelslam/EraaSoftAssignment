@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\List\u0027s Contant\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Repositry2\\List\u0027s Contant 2Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\list\u0027s contant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|c:\\users\\dell\\desktop\\repositry2\\list\u0027s contant 2assignment\\storlistoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|solutionrelative:storlistoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|c:\\users\\dell\\desktop\\repositry2\\list\u0027s contant 2assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\list\u0027s contant\\blogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|c:\\users\\dell\\desktop\\repositry2\\list\u0027s contant 2assignment\\blogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|solutionrelative:blogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|c:\\users\\dell\\desktop\\.net eraasoft tasks\\list\u0027s contant\\storlistoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A1B205D-B771-4987-9E30-AA9E9F688326}|List\u0027s Contant.csproj|solutionrelative:storlistoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BLogic.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\List\u0027s Contant\\BLogic.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Repositry2\\List\u0027s Contant 2Assignment\\BLogic.cs",
               "RelativeDocumentMoniker": "BLogic.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\List\u0027s Contant\\BLogic.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Repositry2\\List\u0027s Contant 2Assignment\\BLogic.cs",
               "RelativeToolTip": "BLogic.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAUwEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T21:08:46.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T21:08:46.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StorListOperations.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\List\u0027s Contant\\StorListOperations.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Repositry2\\List\u0027s Contant 2Assignment\\StorListOperations.cs",
               "RelativeDocumentMoniker": "StorListOperations.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\List\u0027s Contant\\StorListOperations.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Repositry2\\List\u0027s Contant 2Assignment\\StorListOperations.cs",
               "RelativeToolTip": "StorListOperations.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T17:50:38.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\List\u0027s Contant\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Repositry2\\List\u0027s Contant 2Assignment\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\.Net EraaSoft Tasks\\List\u0027s Contant\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Repositry2\\List\u0027s Contant 2Assignment\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T09:07:49.436Z",
               "EditorCaption": ""

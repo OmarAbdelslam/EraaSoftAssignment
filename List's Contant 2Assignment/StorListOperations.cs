@@ -77,6 +77,19 @@ namespace List_s_Contant
             Console.WriteLine("The list is empty, fill it and try again\n");
         }
 
+        public void Sort()
+        {
+            Numbers.Sort();
+        }
 
+        public void Any()
+        {
+            Numbers.Any();
+        }
+
+        public void All()
+        {
+            Numbers.All(p => p % 2 == 0);
+        }
     }
 }
