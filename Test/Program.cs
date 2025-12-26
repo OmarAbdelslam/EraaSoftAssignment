@@ -1,14 +1,15 @@
 ﻿namespace Test
 {
-    public class test
+
+    public class Program
     {
-        private readonly int T1 = 1;
-    }
-    internal class Program
-    {
-        static void Main(string[] args)
+        private int[] array = { 1, 2, 3, 4, 5 };
+        public int this[int a] => array[a];
+        public static void Main(string[] args)
         {
-            test test = new();
+            Program program = new Program();
+            Console.WriteLine( program[0]);
+            Console.ReadKey();
         }
     }
 }
